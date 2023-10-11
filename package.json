@@ -7,5 +7,9 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.1.5"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "ts-node src/1.ts"
   }
 }
